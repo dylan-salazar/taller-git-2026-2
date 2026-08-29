@@ -1,0 +1,3 @@
+REPOSITORIO DE TRABAJO
+
+**Taller de GIT 2026-1**
